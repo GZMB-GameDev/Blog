@@ -7,23 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>GZMB_GameDev</copyright>
-        <lastBuildDate>Sat, 10 Jan 2026 15:47:11 +0800</lastBuildDate><atom:link href="https://gzmb-gamedev.github.io/Blog/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Test2</title>
-        <link>https://gzmb-gamedev.github.io/Blog/p/test2/</link>
-        <pubDate>Sat, 10 Jan 2026 15:47:11 +0800</pubDate>
-        
-        <guid>https://gzmb-gamedev.github.io/Blog/p/test2/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>TestForNew</title>
-        <link>https://gzmb-gamedev.github.io/Blog/p/testfornew/</link>
-        <pubDate>Sat, 10 Jan 2026 15:36:44 +0800</pubDate>
-        
-        <guid>https://gzmb-gamedev.github.io/Blog/p/testfornew/</guid>
-        <description></description>
-        </item>
-        <item>
+        <lastBuildDate>Sat, 10 Jan 2026 10:51:07 +0800</lastBuildDate><atom:link href="https://gzmb-gamedev.github.io/Blog/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>TestBlog</title>
         <link>https://gzmb-gamedev.github.io/Blog/p/testblog/</link>
         <pubDate>Sat, 10 Jan 2026 10:51:07 +0800</pubDate>
