@@ -7,7 +7,26 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>GZMB_GameDev</copyright>
-        <lastBuildDate>Sat, 10 Jan 2026 10:51:07 +0800</lastBuildDate><atom:link href="https://gzmb-gamedev.github.io/Blog/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 11 Jan 2026 20:29:55 +0800</lastBuildDate><atom:link href="https://gzmb-gamedev.github.io/Blog/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>TestViewCountPost</title>
+        <link>https://gzmb-gamedev.github.io/Blog/p/testviewcountpost/</link>
+        <pubDate>Sun, 11 Jan 2026 20:29:55 +0800</pubDate>
+        
+        <guid>https://gzmb-gamedev.github.io/Blog/p/testviewcountpost/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>TestBlog</title>
+        <link>https://gzmb-gamedev.github.io/Blog/p/testblog/</link>
+        <pubDate>Sat, 10 Jan 2026 10:51:07 +0800</pubDate>
+        
+        <guid>https://gzmb-gamedev.github.io/Blog/p/testblog/</guid>
+        <description>&lt;p&gt;Hello Blog&lt;/p&gt;
+&lt;p&gt;This is a &lt;strong&gt;test&lt;/strong&gt; post
+这是一个&lt;strong&gt;测试&lt;/strong&gt;帖子&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>TestBlog</title>
         <link>https://gzmb-gamedev.github.io/Blog/p/testblog/</link>
         <pubDate>Sat, 10 Jan 2026 10:51:07 +0800</pubDate>
