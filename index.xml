@@ -14,6 +14,16 @@
         
         <guid>https://gzmb-gamedev.github.io/Blog/p/testblog/</guid>
         <description>&lt;p&gt;Hello Blog&lt;/p&gt;
+&lt;p&gt;This is a &lt;strong&gt;test&lt;/strong&gt; post
+这是一个&lt;strong&gt;测试&lt;/strong&gt;帖子&lt;/p&gt;
+&lt;script src=&#34;https://utteranc.es/client.js&#34;
+        repo=&#34;[ENTER REPO HERE]&#34;
+        issue-term=&#34;title&#34;
+        label=&#34;Comment&#34;
+        theme=&#34;github-light&#34;
+        crossorigin=&#34;anonymous&#34;
+        async&gt;
+&lt;/script&gt;
 </description>
         </item>
         <item>
