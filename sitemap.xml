@@ -9,30 +9,9 @@
   </sitemap>
   
   <sitemap>
-    <loc>https://gzmb-gamedev.github.io/Blog/ja/sitemap.xml</loc>
-    
-      <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
     <loc>https://gzmb-gamedev.github.io/Blog/zh-cn/sitemap.xml</loc>
     
       <lastmod>2026-01-11T20:29:55+08:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://gzmb-gamedev.github.io/Blog/zh-tw/sitemap.xml</loc>
-    
-      <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://gzmb-gamedev.github.io/Blog/ar/sitemap.xml</loc>
-    
-      <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     
   </sitemap>
   

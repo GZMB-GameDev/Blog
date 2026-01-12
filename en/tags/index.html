@@ -13,7 +13,7 @@
 <meta property='og:type' content='website'><meta property='og:updated_time' content=' 2020-10-09T00:00:00&#43;00:00 '/>
 <meta name="twitter:title" content="Tags">
 <meta name="twitter:description" content="Welcome to my blog,Bilibili ID:鸽子面包不会游戏开发"><link rel="alternate" type="application/rss&#43;xml" href="https://gzmb-gamedev.github.io/Blog/en/tags/index.xml">
-    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="shortcut icon" href="/img/favicon.ico" />
 
     </head>
     <body class="">
@@ -133,6 +133,26 @@
         
         
         <li >
+            <a href='/Blog/en/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+
+
+
+                
+                <span>Home</span>
+            </a>
+        </li>
+        
+        
+        <li >
             <a href='/Blog/en/about/' >
                 
                 
@@ -229,12 +249,6 @@
                                 
                                     <option value="https://gzmb-gamedev.github.io/Blog/" >简体中文</option>
                                 
-                                    <option value="https://gzmb-gamedev.github.io/Blog/ja/" >日本語</option>
-                                
-                                    <option value="https://gzmb-gamedev.github.io/Blog/zh-tw/" >正體中文</option>
-                                
-                                    <option value="https://gzmb-gamedev.github.io/Blog/ar/" >عربي</option>
-                                
                             </select>
                         </li>
                     
@@ -306,14 +320,6 @@
         
         
         <div class="widget-archive--list">
-            <div class="archives-year">
-                    <a href="/Blog/en/archives/#2020">
-                        
-                            <span class="year">2020</span>
-                            <span class="count">1</span>
-                        
-                    </a> 
-                </div>
             
         </div>
     </section>
@@ -336,14 +342,6 @@
     <h2 class="widget-title section-title">Categories</h2>
 
     <div class="tagCloud-tags">
-        
-            <a href="/Blog/en/categories/test/" class="font_size_1">
-                Test
-            </a>
-        
-            <a href="/Blog/en/categories/%E6%B5%8B%E8%AF%95/" class="font_size_1">
-                测试
-            </a>
         
     </div>
 </section>
@@ -410,7 +408,9 @@
     }());
 </script>
 
+
 <script defer src="https://cn.vercount.one/js"></script>
+
 
 <div id="particles-js"></div>
 <script src=/Blog/background/particles.min.js></script>
@@ -425,10 +425,30 @@
     position: fixed;
     top: 0;
     left: 0;
+    bottom: 0;
     width: 100%;
     z-index: -1;
   }
 </style>
+
+<script>
+    function showHideView() {
+        
+        let viewCounts = document.querySelectorAll("#viewCount");
+        if (viewCounts) {
+            
+            let article =  document.querySelector(".article-page");
+            if (!article) {
+                viewCounts.forEach(ele => {
+                    ele.style.display = 'none';
+                });
+            }
+        }
+    }
+    
+    showHideView();
+</script>
+
 
 
 

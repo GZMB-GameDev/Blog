@@ -13,7 +13,7 @@
 <meta property='og:type' content='website'><meta property='og:updated_time' content=' 2026-01-11T20:29:55&#43;08:00 '/>
 <meta name="twitter:title" content="Tags">
 <meta name="twitter:description" content="欢迎来到我的博客,Bilibili ID:鸽子面包不会游戏开发"><link rel="alternate" type="application/rss&#43;xml" href="https://gzmb-gamedev.github.io/Blog/tags/index.xml">
-    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="shortcut icon" href="/img/favicon.ico" />
 
     </head>
     <body class="">
@@ -249,12 +249,6 @@
                                 
                                     <option value="https://gzmb-gamedev.github.io/Blog/" selected>简体中文</option>
                                 
-                                    <option value="https://gzmb-gamedev.github.io/Blog/ja/" >日本語</option>
-                                
-                                    <option value="https://gzmb-gamedev.github.io/Blog/zh-tw/" >正體中文</option>
-                                
-                                    <option value="https://gzmb-gamedev.github.io/Blog/ar/" >عربي</option>
-                                
                             </select>
                         </li>
                     
@@ -399,7 +393,7 @@
 
         <div class="section-card">
             <div class="section-details">
-                <h3 class="section-count">7 个页面</h3>
+                <h3 class="section-count">10 个页面</h3>
                 <h1 class="section-term">Tags</h1>
                 
             </div>
@@ -509,7 +503,9 @@
     }());
 </script>
 
+
 <script defer src="https://cn.vercount.one/js"></script>
+
 
 <div id="particles-js"></div>
 <script src=/Blog/background/particles.min.js></script>
@@ -524,10 +520,30 @@
     position: fixed;
     top: 0;
     left: 0;
+    bottom: 0;
     width: 100%;
     z-index: -1;
   }
 </style>
+
+<script>
+    function showHideView() {
+        
+        let viewCounts = document.querySelectorAll("#viewCount");
+        if (viewCounts) {
+            
+            let article =  document.querySelector(".article-page");
+            if (!article) {
+                viewCounts.forEach(ele => {
+                    ele.style.display = 'none';
+                });
+            }
+        }
+    }
+    
+    showHideView();
+</script>
+
 
 
 

@@ -14,7 +14,7 @@
 <meta name="twitter:title" content="Placeholder Text">
 <meta name="twitter:description" content="Lorem Ipsum Dolor Si Amet"><meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content='https://gzmb-gamedev.github.io/Blog/p/placeholder-text/matt-le-SJSpo9hQf7s-unsplash.jpg' />
-    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="shortcut icon" href="/img/favicon.ico" />
 
     </head>
     <body class="
@@ -252,12 +252,6 @@
                                 
                                     <option value="https://gzmb-gamedev.github.io/Blog/" selected>简体中文</option>
                                 
-                                    <option value="https://gzmb-gamedev.github.io/Blog/ja/" >日本語</option>
-                                
-                                    <option value="https://gzmb-gamedev.github.io/Blog/zh-tw/" >正體中文</option>
-                                
-                                    <option value="https://gzmb-gamedev.github.io/Blog/ar/" >عربي</option>
-                                
                             </select>
                         </li>
                     
@@ -324,7 +318,8 @@
 
             <main class="main full-width">
     <article class="has-image main-article">
-    <header class="article-header">
+    
+<header class="article-header">
         <div class="article-image">
             <a href="/Blog/p/placeholder-text/">
                 <img src="/Blog/p/placeholder-text/matt-le-SJSpo9hQf7s-unsplash_hu_5814d33d2ab7927a.jpg"
@@ -338,7 +333,9 @@
         </div>
     
 
-    <div class="article-details">
+    
+
+<div class="article-details">
     
     <header class="article-category">
         
@@ -386,30 +383,27 @@
         
 
         
+
+        
+        <div id="viewCount">
+            |
+            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-eye"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M10 12a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" /><path d="M21 12c-2.4 4 -5.4 6 -9 6c-3.6 0 -6.6 -2 -9 -6c2.4 -4 5.4 -6 9 -6c3.6 0 6.6 2 9 6" /></svg>
+            <time class="article-time--reading">
+                
+                <span id="vercount_value_page_pv">loading... </span>次
+                
+            </time>
+            |
+        </div>
+    
     </footer>
     
-
     
-        <footer class="article-translations">
-            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-language" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-  <path d="M4 5h7" />
-  <path d="M9 3v2c0 4.418 -2.239 8 -5 8" />
-  <path d="M5 9c-.003 2.144 2.952 3.908 6.7 4" />
-  <path d="M12 20l4 -9l4 9" />
-  <path d="M19.1 18h-6.2" />
-</svg>
 
-
-
-            <div>
-                
-                    <a href="https://gzmb-gamedev.github.io/Blog/ar/p/%D9%85%D8%AB%D8%A7%D9%84-%D9%86%D8%B5/" class="link">عربي</a>
-                
-            </div>
-        </footer>
     
 </div>
+
+
 
 </header>
 
@@ -671,7 +665,9 @@
     }());
 </script>
 
+
 <script defer src="https://cn.vercount.one/js"></script>
+
 
 <div id="particles-js"></div>
 <script src=/Blog/background/particles.min.js></script>
@@ -686,10 +682,30 @@
     position: fixed;
     top: 0;
     left: 0;
+    bottom: 0;
     width: 100%;
     z-index: -1;
   }
 </style>
+
+<script>
+    function showHideView() {
+        
+        let viewCounts = document.querySelectorAll("#viewCount");
+        if (viewCounts) {
+            
+            let article =  document.querySelector(".article-page");
+            if (!article) {
+                viewCounts.forEach(ele => {
+                    ele.style.display = 'none';
+                });
+            }
+        }
+    }
+    
+    showHideView();
+</script>
+
 
 
 

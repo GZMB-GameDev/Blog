@@ -11,24 +11,12 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://gzmb-gamedev.github.io/Blog/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://gzmb-gamedev.github.io/Blog/zh-tw/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://gzmb-gamedev.github.io/Blog/ar/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh-cn"
                 href="https://gzmb-gamedev.github.io/Blog/"
                 />
+  </url><url>
+    <loc>https://gzmb-gamedev.github.io/Blog/post/</loc>
+    <lastmod>2026-01-11T20:29:55+08:00</lastmod>
   </url><url>
     <loc>https://gzmb-gamedev.github.io/Blog/p/testviewcountpost/</loc>
     <lastmod>2026-01-11T20:29:55+08:00</lastmod>
@@ -74,21 +62,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-tw"
-                href="https://gzmb-gamedev.github.io/Blog/zh-tw/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://gzmb-gamedev.github.io/Blog/ja/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://gzmb-gamedev.github.io/Blog/ar/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh-cn"
                 href="https://gzmb-gamedev.github.io/Blog/categories/"
                 />
@@ -117,21 +90,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://gzmb-gamedev.github.io/Blog/ja/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://gzmb-gamedev.github.io/Blog/zh-tw/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://gzmb-gamedev.github.io/Blog/ar/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh-cn"
                 href="https://gzmb-gamedev.github.io/Blog/tags/"
                 />
@@ -144,42 +102,12 @@
   </url><url>
     <loc>https://gzmb-gamedev.github.io/Blog/p/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://gzmb-gamedev.github.io/Blog/ar/p/%D9%85%D8%AB%D8%A7%D9%84-%D9%86%D8%B5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://gzmb-gamedev.github.io/Blog/p/placeholder-text/"
-                />
   </url><url>
     <loc>https://gzmb-gamedev.github.io/Blog/tags/tag-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gzmb-gamedev.github.io/Blog/categories/test/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://gzmb-gamedev.github.io/Blog/en/categories/test/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://gzmb-gamedev.github.io/Blog/ja/categories/test/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://gzmb-gamedev.github.io/Blog/zh-tw/categories/test/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://gzmb-gamedev.github.io/Blog/categories/test/"
-                />
   </url><url>
     <loc>https://gzmb-gamedev.github.io/Blog/categories/test-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
@@ -195,6 +123,18 @@
   </url><url>
     <loc>https://gzmb-gamedev.github.io/Blog/p/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gzmb-gamedev.github.io/Blog/categories/unity/</loc>
+  </url><url>
+    <loc>https://gzmb-gamedev.github.io/Blog/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9/</loc>
+  </url><url>
+    <loc>https://gzmb-gamedev.github.io/Blog/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</loc>
+  </url><url>
+    <loc>https://gzmb-gamedev.github.io/Blog/tags/%D9%85%D8%A7%D8%B1%D9%83%D8%AF%D8%A7%D9%88%D9%86/</loc>
+  </url><url>
+    <loc>https://gzmb-gamedev.github.io/Blog/tags/%D9%86%D8%B5/</loc>
+  </url><url>
+    <loc>https://gzmb-gamedev.github.io/Blog/tags/%D9%88%D8%B3%D9%85-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</loc>
   </url><url>
     <loc>https://gzmb-gamedev.github.io/Blog/%E5%85%B3%E4%BA%8E/</loc>
     <xhtml:link

@@ -13,7 +13,7 @@
 <meta property='og:type' content='article'><meta property='article:section' content='Page' />
 <meta name="twitter:title" content="链接">
 <meta name="twitter:description" content="To use this feature, add links section to frontmatter.\nThis page&rsquo;s frontmatter:\n1 2 3 4 5 6 7 8 9 links: - title: GitHub description: GitHub is the world&#39;s largest software development platform. website: https://github.com image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png - title: TypeScript description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. website: https://www.typescriptlang.org image: ts-logo-128.jpg image field accepts both local and external images.\n">
-    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="shortcut icon" href="/img/favicon.ico" />
 
     </head>
     <body class="
@@ -251,12 +251,6 @@
                                 
                                     <option value="https://gzmb-gamedev.github.io/Blog/" selected>简体中文</option>
                                 
-                                    <option value="https://gzmb-gamedev.github.io/Blog/ja/" >日本語</option>
-                                
-                                    <option value="https://gzmb-gamedev.github.io/Blog/zh-tw/" >正體中文</option>
-                                
-                                    <option value="https://gzmb-gamedev.github.io/Blog/ar/" >عربي</option>
-                                
                             </select>
                         </li>
                     
@@ -292,9 +286,12 @@
 
             <main class="main full-width">
     <article class="main-article">
-    <header class="article-header">
+    
+<header class="article-header">
 
-    <div class="article-details">
+    
+
+<div class="article-details">
     
 
     <div class="article-title-wrapper">
@@ -331,6 +328,8 @@
         </footer>
     
 </div>
+
+
 
 </header>
 
@@ -548,7 +547,9 @@
     }());
 </script>
 
+
 <script defer src="https://cn.vercount.one/js"></script>
+
 
 <div id="particles-js"></div>
 <script src=/Blog/background/particles.min.js></script>
@@ -563,10 +564,30 @@
     position: fixed;
     top: 0;
     left: 0;
+    bottom: 0;
     width: 100%;
     z-index: -1;
   }
 </style>
+
+<script>
+    function showHideView() {
+        
+        let viewCounts = document.querySelectorAll("#viewCount");
+        if (viewCounts) {
+            
+            let article =  document.querySelector(".article-page");
+            if (!article) {
+                viewCounts.forEach(ele => {
+                    ele.style.display = 'none';
+                });
+            }
+        }
+    }
+    
+    showHideView();
+</script>
+
 
 
 
