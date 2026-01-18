@@ -7,7 +7,26 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>GZMB_GameDev</copyright>
-        <lastBuildDate>Sun, 11 Jan 2026 20:29:55 +0800</lastBuildDate><atom:link href="https://gzmb-gamedev.github.io/Blog/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 18 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://gzmb-gamedev.github.io/Blog/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Volt Protocol Dev Journal 1</title>
+        <link>https://gzmb-gamedev.github.io/Blog/p/volt-protocol-dev-journal-1/</link>
+        <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://gzmb-gamedev.github.io/Blog/p/volt-protocol-dev-journal-1/</guid>
+        <description>&lt;h2 id=&#34;简要概述&#34;&gt;简要概述
+&lt;/h2&gt;&lt;p&gt;这次更新主要更改了原有的开发思路，从结合桌游的路径转移至电路连接这个功能。项目名从&lt;strong&gt;Tile Siege&lt;/strong&gt;更改为&lt;strong&gt;Volt Protocol&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;具体更改&#34;&gt;具体更改
+&lt;/h2&gt;&lt;h3 id=&#34;关于脚本&#34;&gt;关于脚本。。。
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;更改了&lt;strong&gt;Turret&lt;/strong&gt;脚本的实现逻辑，将它作为&lt;strong&gt;Component&lt;/strong&gt;脚本的子脚本，通过&lt;strong&gt;AbstractClass&lt;/strong&gt;使&lt;strong&gt;Turret&lt;/strong&gt;与其他可以通电或者需要电路供给的组件都能获得同样的调节参数。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;关于ui&#34;&gt;关于UI
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;删除了&lt;strong&gt;Console&lt;/strong&gt;,转而加入ToolTip来显示电路元件信息。&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        </item>
+        <item>
         <title>TestViewCountPost</title>
         <link>https://gzmb-gamedev.github.io/Blog/p/testviewcountpost/</link>
         <pubDate>Sun, 11 Jan 2026 20:29:55 +0800</pubDate>
@@ -304,7 +323,12 @@
         <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
         
         <guid>https://gzmb-gamedev.github.io/Blog/p/math-typesetting/</guid>
-        <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;
+        <description>&lt;p&gt;+++
+categories = [
+&amp;ldquo;test&amp;rdquo;
+]
++++&lt;/p&gt;
+&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;
 &lt;p&gt;In this example we will be using &lt;a class=&#34;link&#34; href=&#34;https://katex.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;KaTeX&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;

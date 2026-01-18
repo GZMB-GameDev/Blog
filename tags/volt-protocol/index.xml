@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Unity游戏开发 on 鸽子面包de博客</title>
-        <link>https://gzmb-gamedev.github.io/Blog/categories/unity/</link>
-        <description>Recent content in Unity游戏开发 on 鸽子面包de博客</description>
+        <title>Volt Protocol on 鸽子面包de博客</title>
+        <link>https://gzmb-gamedev.github.io/Blog/tags/volt-protocol/</link>
+        <description>Recent content in Volt Protocol on 鸽子面包de博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>GZMB_GameDev</copyright>
-        <lastBuildDate>Sun, 18 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://gzmb-gamedev.github.io/Blog/categories/unity/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 18 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://gzmb-gamedev.github.io/Blog/tags/volt-protocol/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Volt Protocol Dev Journal 1</title>
         <link>https://gzmb-gamedev.github.io/Blog/p/volt-protocol-dev-journal-1/</link>
         <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
