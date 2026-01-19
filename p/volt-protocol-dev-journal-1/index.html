@@ -6,7 +6,7 @@
 
 <link rel='canonical' href='https://gzmb-gamedev.github.io/Blog/p/volt-protocol-dev-journal-1/'>
 
-<link rel="stylesheet" href="/Blog/scss/style.min.833d6eed45de56f48306bf57268d5b8cdfc8a60e8e7bdc99810464fcd033f7c6.css"><meta property='og:title' content="Volt Protocol Dev Journal 1">
+<link rel="stylesheet" href="/Blog/scss/style.min.05e4ed5eb693d69634ae8da5d418dee70e4e8fd6a6b6f046263c48666b4c2700.css"><meta property='og:title' content="Volt Protocol Dev Journal 1">
 <meta property='og:description' content="简要概述 这次更新主要更改了原有的开发思路，从结合桌游的路径转移至电路连接这个功能。项目名从Tile Siege更改为Volt Protocol\n具体更改 关于脚本。。。 更改了Turret脚本的实现逻辑，将它作为Component脚本的子脚本，通过AbstractClass使Turret与其他可以通电或者需要电路供给的组件都能获得同样的调节参数。\n关于UI 删除了Console,转而加入ToolTip来显示电路元件信息。\n">
 <meta property='og:url' content='https://gzmb-gamedev.github.io/Blog/p/volt-protocol-dev-journal-1/'>
 <meta property='og:site_name' content='鸽子面包de博客'>
@@ -620,7 +620,7 @@
     position: fixed;
     top: 0;
     left: 0;
-    
+    bottom: 0;
     width: 100%;
     z-index: -1;
   }
