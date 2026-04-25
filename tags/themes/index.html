@@ -6,14 +6,14 @@
 
 <link rel='canonical' href='https://gzmb-gamedev.github.io/Blog/tags/themes/'>
 
-<link rel="stylesheet" href="/Blog/scss/style.min.833d6eed45de56f48306bf57268d5b8cdfc8a60e8e7bdc99810464fcd033f7c6.css"><meta property='og:title' content="Tag: Themes - 鸽子面包de博客">
+<link rel="stylesheet" href="/Blog/scss/style.min.b81256c668945015167c06c93f726ca691b95fa5a7f4556b1c205f1b467052eb.css"><meta property='og:title' content="Tag: Themes - 鸽子面包de博客">
 <meta property='og:description' content="欢迎来到我的博客,Bilibili ID:鸽子面包不会游戏开发">
 <meta property='og:url' content='https://gzmb-gamedev.github.io/Blog/tags/themes/'>
 <meta property='og:site_name' content='鸽子面包de博客'>
-<meta property='og:type' content='website'><meta property='og:updated_time' content=' 2026-01-10T10:51:07&#43;08:00 '/>
+<meta property='og:type' content='website'><meta property='og:updated_time' content=' 2026-03-22T18:10:00&#43;08:00 '/>
 <meta name="twitter:title" content="Tag: Themes - 鸽子面包de博客">
 <meta name="twitter:description" content="欢迎来到我的博客,Bilibili ID:鸽子面包不会游戏开发"><link rel="alternate" type="application/rss&#43;xml" href="https://gzmb-gamedev.github.io/Blog/tags/themes/index.xml">
-    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="shortcut icon" href="/Blog/favicon.ico" />
 
     </head>
     <body class="">
@@ -249,12 +249,6 @@
                                 
                                     <option value="https://gzmb-gamedev.github.io/Blog/" selected>简体中文</option>
                                 
-                                    <option value="https://gzmb-gamedev.github.io/Blog/ja/" >日本語</option>
-                                
-                                    <option value="https://gzmb-gamedev.github.io/Blog/zh-tw/" >正體中文</option>
-                                
-                                    <option value="https://gzmb-gamedev.github.io/Blog/ar/" >عربي</option>
-                                
                             </select>
                         </li>
                     
@@ -330,7 +324,7 @@
                     <a href="/Blog/archives/#2026">
                         
                             <span class="year">2026</span>
-                            <span class="count">1</span>
+                            <span class="count">3</span>
                         
                     </a> 
                 </div>
@@ -365,20 +359,16 @@
 
     <div class="tagCloud-tags">
         
-            <a href="/Blog/categories/test/" class="font_size_2">
+            <a href="/Blog/categories/test/" class="font_size_4">
                 Test
             </a>
         
-            <a href="/Blog/categories/syntax/" class="font_size_1">
-                Syntax
+            <a href="/Blog/categories/cp-project/" class="font_size_2">
+                CP Project
             </a>
         
-            <a href="/Blog/categories/test-with-whitespaces/" class="font_size_1">
-                Test With Whitespaces
-            </a>
-        
-            <a href="/Blog/categories/themes/" class="font_size_1">
-                Themes
+            <a href="/Blog/categories/unity/" class="font_size_1">
+                Unity游戏开发
             </a>
         
     </div>
@@ -464,6 +454,57 @@
         document.head.appendChild(customFont);
     }());
 </script>
+
+
+<script defer src="https://cn.vercount.one/js"></script>
+
+
+<div id="particles-js"></div>
+<script src=/Blog/background/particles.min.js></script>
+<script>
+  particlesJS.load('particles-js', "/Blog/background/particlesjs-config.json", function() {
+    console.log('particles.js loaded - callback');
+  });
+</script>
+
+<style>
+  #particles-js {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    z-index: -1;
+  }
+</style>
+
+<script>
+    function showHideView() {
+        
+        let viewCounts = document.querySelectorAll("#viewCount");
+        if (viewCounts) {
+            
+            let article =  document.querySelector(".article-page");
+            if (!article) {
+                viewCounts.forEach(ele => {
+                    ele.style.display = 'none';
+                });
+            }
+        }
+    }
+    
+    showHideView();
+</script>
+
+
+
+
+
+
+
+
+
+
 
     </body>
 </html>

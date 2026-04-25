@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>2D Platformer on 鸽子面包de博客</title>
+        <link>http://localhost:1313/Blog/tags/2d-platformer/</link>
+        <description>Recent content in 2D Platformer on 鸽子面包de博客</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>GZMB_GameDev</copyright>
+        <lastBuildDate>Tue, 10 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/Blog/tags/2d-platformer/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>【Unity2D】使用Unity复刻蔚蓝操作手感</title>
+        <link>http://localhost:1313/Blog/p/unity2d%E4%BD%BF%E7%94%A8unity%E5%A4%8D%E5%88%BB%E8%94%9A%E8%93%9D%E6%93%8D%E4%BD%9C%E6%89%8B%E6%84%9F/</link>
+        <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/Blog/p/unity2d%E4%BD%BF%E7%94%A8unity%E5%A4%8D%E5%88%BB%E8%94%9A%E8%93%9D%E6%93%8D%E4%BD%9C%E6%89%8B%E6%84%9F/</guid>
+        <description>&lt;h2 id=&#34;引入&#34;&gt;引入
+&lt;/h2&gt;&lt;p&gt;近几年，蔚蓝的操作手感一直在2D平台跳跃游戏中有着不可撼动的地位。这个寒假，我尝试复刻了蔚蓝中的基本移动与跳跃功能。
+本文主要讲解移动，动画、特效等尚未添加，请见谅。&lt;/p&gt;
+&lt;h2 id=&#34;移动&#34;&gt;移动
+&lt;/h2&gt;&lt;h2 id=&#34;特别鸣谢&#34;&gt;特别鸣谢
+&lt;/h2&gt;&lt;h5 id=&#34;参考视频&#34;&gt;参考视频：
+&lt;/h5&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1M441197sr/?spm_id_from=333.337.search-card.all.click&amp;amp;vd_source=88aa4b012e7c227b039943fafbcf3bcf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.bilibili.com/video/BV1M441197sr/?spm_id_from=333.337.search-card.all.click&amp;vd_source=88aa4b012e7c227b039943fafbcf3bcf&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h5 id=&#34;代码思路&#34;&gt;代码思路：
+&lt;/h5&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=KbtcEVCM7bw&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.youtube.com/watch?v=KbtcEVCM7bw&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=RFix_Kg2Di0&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.youtube.com/watch?v=RFix_Kg2Di0&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

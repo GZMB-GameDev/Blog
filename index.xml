@@ -7,13 +7,60 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>GZMB_GameDev</copyright>
-        <lastBuildDate>Sat, 10 Jan 2026 10:51:07 +0800</lastBuildDate><atom:link href="https://gzmb-gamedev.github.io/Blog/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>TestBlog</title>
-        <link>https://gzmb-gamedev.github.io/Blog/p/testblog/</link>
-        <pubDate>Sat, 10 Jan 2026 10:51:07 +0800</pubDate>
+        <lastBuildDate>Sun, 22 Mar 2026 18:10:00 +0800</lastBuildDate><atom:link href="https://gzmb-gamedev.github.io/Blog/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>CP project Dev Journal 6 - 动效优化与算法改进</title>
+        <link>https://gzmb-gamedev.github.io/Blog/p/cp-project-dev-journal-6-%E5%8A%A8%E6%95%88%E4%BC%98%E5%8C%96%E4%B8%8E%E7%AE%97%E6%B3%95%E6%94%B9%E8%BF%9B/</link>
+        <pubDate>Sun, 22 Mar 2026 18:10:00 +0800</pubDate>
         
-        <guid>https://gzmb-gamedev.github.io/Blog/p/testblog/</guid>
-        <description>&lt;p&gt;Hello Blog&lt;/p&gt;
+        <guid>https://gzmb-gamedev.github.io/Blog/p/cp-project-dev-journal-6-%E5%8A%A8%E6%95%88%E4%BC%98%E5%8C%96%E4%B8%8E%E7%AE%97%E6%B3%95%E6%94%B9%E8%BF%9B/</guid>
+        <description>&lt;h3 id=&#34;功能优化&#34;&gt;功能优化
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&amp;gt;&lt;/strong&gt; 优化UI悬停动画效果，改为简洁的缩放+移动+边框高亮风格&lt;br&gt;
+&lt;strong&gt;&amp;gt;&lt;/strong&gt; 归档区域独立，不受悬停动画影响&lt;br&gt;
+&lt;strong&gt;&amp;gt;&lt;/strong&gt; 简化设置选项，移除冗余的动画类型配置&lt;br&gt;
+&lt;strong&gt;&amp;gt;&lt;/strong&gt; 优化任务分布算法：离散模式从DDL截止日期开始倒序分配&lt;br&gt;
+&lt;strong&gt;&amp;gt;&lt;/strong&gt; 版本号改为1.X格式（当前1.6）&lt;br&gt;&lt;/p&gt;
+&lt;h3 id=&#34;项目部署&#34;&gt;项目部署
+&lt;/h3&gt;&lt;p&gt;项目已部署至 Netlify：https://ib-plan-making.netlify.app/&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>CP project Dev Journal 1 - 项目初步开发</title>
+        <link>https://gzmb-gamedev.github.io/Blog/p/cp-project-dev-journal-1-%E9%A1%B9%E7%9B%AE%E5%88%9D%E6%AD%A5%E5%BC%80%E5%8F%91/</link>
+        <pubDate>Sat, 14 Mar 2026 19:28:12 +0800</pubDate>
+        
+        <guid>https://gzmb-gamedev.github.io/Blog/p/cp-project-dev-journal-1-%E9%A1%B9%E7%9B%AE%E5%88%9D%E6%AD%A5%E5%BC%80%E5%8F%91/</guid>
+        <description>&lt;h3 id=&#34;项目简要概述&#34;&gt;项目简要概述
+&lt;/h3&gt;&lt;p&gt;这是一套为&lt;strong&gt;IB学生&lt;/strong&gt;量身打造的计划生成系统&lt;/p&gt;
+&lt;h3 id=&#34;目前实现的功能&#34;&gt;目前实现的功能
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&amp;gt;&lt;/strong&gt; 允许用户创建任务 &lt;br&gt;
+&lt;strong&gt;&amp;gt;&lt;/strong&gt; 给予用户自定义任务的能力，为任务设置优先级 &lt;br&gt;
+&lt;strong&gt;&amp;gt;&lt;/strong&gt; 将大目标拆分为小目标的能力 &lt;br&gt;
+&lt;strong&gt;&amp;gt;&lt;/strong&gt; 允许用户将计划导出为Excel表格 &lt;br&gt;&lt;/p&gt;
+&lt;h3 id=&#34;后续更新&#34;&gt;后续更新
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&amp;gt;&lt;/strong&gt; 在电脑上实现定时提醒的功能 &lt;br&gt;
+&lt;strong&gt;&amp;gt;&lt;/strong&gt; 进一步给予用户更自由地自定义任务的能力 &lt;br&gt;
+&lt;strong&gt;&amp;gt;&lt;/strong&gt; 添加预设，例如 &lt;em&gt;“大目标：英语演讲 小目标1：演讲稿撰写  小目标2：PPT制作”&lt;/em&gt; &lt;br&gt;&lt;/p&gt;
+&lt;h3 id=&#34;项目已经部署至netlify网址&#34;&gt;项目已经部署至Netlify网址： &lt;a class=&#34;link&#34; href=&#34;https://ib-plan-making.netlify.app/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://ib-plan-making.netlify.app/&lt;/a&gt;
+&lt;/h3&gt;</description>
+        </item>
+        <item>
+        <title>Volt Protocol Dev Journal 1</title>
+        <link>https://gzmb-gamedev.github.io/Blog/p/volt-protocol-dev-journal-1/</link>
+        <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://gzmb-gamedev.github.io/Blog/p/volt-protocol-dev-journal-1/</guid>
+        <description>&lt;h2 id=&#34;简要概述&#34;&gt;简要概述
+&lt;/h2&gt;&lt;p&gt;这次更新主要更改了原有的开发思路，从结合桌游的路径转移至电路连接这个功能。项目名从&lt;strong&gt;Tile Siege&lt;/strong&gt;更改为&lt;strong&gt;Volt Protocol&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;具体更改&#34;&gt;具体更改
+&lt;/h2&gt;&lt;h3 id=&#34;关于脚本&#34;&gt;关于脚本。。。
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;更改了&lt;strong&gt;Turret&lt;/strong&gt;脚本的实现逻辑，将它作为&lt;strong&gt;Component&lt;/strong&gt;脚本的子脚本，通过&lt;strong&gt;AbstractClass&lt;/strong&gt;使&lt;strong&gt;Turret&lt;/strong&gt;与其他可以通电或者需要电路供给的组件都能获得同样的调节参数。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;关于ui&#34;&gt;关于UI
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;删除了&lt;strong&gt;Console&lt;/strong&gt;,转而加入ToolTip来显示电路元件信息。&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
         </item>
         <item>
@@ -364,7 +411,7 @@ $$</description>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://gzmb-gamedev.github.io/Blog/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
+        <description>&lt;p&gt;Still empty for now:)&lt;/p&gt;
 </description>
         </item>
         <item>
