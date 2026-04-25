@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://gzmb-gamedev.github.io/Blog/</loc>
-    <lastmod>2026-03-22T18:10:00+08:00</lastmod>
+    <lastmod>2026-04-25T22:43:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -11,12 +11,12 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
+                hreflang="en-us"
                 href="https://gzmb-gamedev.github.io/Blog/"
                 />
   </url><url>
     <loc>https://gzmb-gamedev.github.io/Blog/categories/</loc>
-    <lastmod>2026-03-22T18:10:00+08:00</lastmod>
+    <lastmod>2026-04-25T22:43:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -24,24 +24,24 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
+                hreflang="en-us"
                 href="https://gzmb-gamedev.github.io/Blog/categories/"
                 />
   </url><url>
     <loc>https://gzmb-gamedev.github.io/Blog/categories/cp-project/</loc>
-    <lastmod>2026-03-22T18:10:00+08:00</lastmod>
+    <lastmod>2026-04-25T22:43:00+08:00</lastmod>
   </url><url>
-    <loc>https://gzmb-gamedev.github.io/Blog/p/cp-project-dev-journal-6-%E5%8A%A8%E6%95%88%E4%BC%98%E5%8C%96%E4%B8%8E%E7%AE%97%E6%B3%95%E6%94%B9%E8%BF%9B/</loc>
-    <lastmod>2026-03-22T18:10:00+08:00</lastmod>
+    <loc>https://gzmb-gamedev.github.io/Blog/p/cp-project-dev-journal-7-%E6%97%A5%E6%9C%9F%E4%BF%AE%E5%A4%8D%E4%B8%8E%E7%A7%BB%E5%8A%A8%E7%AB%AF%E4%BC%98%E5%8C%96/</loc>
+    <lastmod>2026-04-25T22:43:00+08:00</lastmod>
   </url><url>
     <loc>https://gzmb-gamedev.github.io/Blog/tags/development-journal/</loc>
-    <lastmod>2026-03-22T18:10:00+08:00</lastmod>
+    <lastmod>2026-04-25T22:43:00+08:00</lastmod>
   </url><url>
     <loc>https://gzmb-gamedev.github.io/Blog/post/</loc>
-    <lastmod>2026-03-22T18:10:00+08:00</lastmod>
+    <lastmod>2026-04-25T22:43:00+08:00</lastmod>
   </url><url>
     <loc>https://gzmb-gamedev.github.io/Blog/tags/</loc>
-    <lastmod>2026-03-22T18:10:00+08:00</lastmod>
+    <lastmod>2026-04-25T22:43:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -49,12 +49,27 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
+                hreflang="en-us"
                 href="https://gzmb-gamedev.github.io/Blog/tags/"
                 />
   </url><url>
     <loc>https://gzmb-gamedev.github.io/Blog/tags/time-management/</loc>
+    <lastmod>2026-04-25T22:43:00+08:00</lastmod>
+  </url><url>
+    <loc>https://gzmb-gamedev.github.io/Blog/p/cp-project-dev-journal-6-%E5%8A%A8%E6%95%88%E4%BC%98%E5%8C%96%E4%B8%8E%E7%AE%97%E6%B3%95%E6%94%B9%E8%BF%9B/</loc>
     <lastmod>2026-03-22T18:10:00+08:00</lastmod>
+  </url><url>
+    <loc>https://gzmb-gamedev.github.io/Blog/p/cp-project-dev-journal-5-%E9%A2%9C%E8%89%B2%E7%B3%BB%E7%BB%9F%E5%A2%9E%E5%BC%BA/</loc>
+    <lastmod>2026-03-22T15:05:00+08:00</lastmod>
+  </url><url>
+    <loc>https://gzmb-gamedev.github.io/Blog/p/cp-project-dev-journal-4-ui%E4%BC%98%E5%8C%96%E8%A1%A8%E6%A0%BC%E5%AF%BC%E5%87%BA%E4%BC%98%E5%8C%96/</loc>
+    <lastmod>2026-03-19T21:55:14+08:00</lastmod>
+  </url><url>
+    <loc>https://gzmb-gamedev.github.io/Blog/p/cp-project-dev-journal-3-%E7%AE%97%E6%B3%95%E4%BC%98%E5%8C%96%E7%9B%91%E7%9D%A3%E5%8A%9F%E8%83%BD/</loc>
+    <lastmod>2026-03-19T09:07:27+08:00</lastmod>
+  </url><url>
+    <loc>https://gzmb-gamedev.github.io/Blog/p/cp-project-dev-journal-2-%E6%B7%BB%E5%8A%A0%E4%BB%BB%E5%8A%A1%E9%A2%84%E8%AE%BE%E4%BF%AE%E6%94%B9/</loc>
+    <lastmod>2026-03-18T10:32:22+08:00</lastmod>
   </url><url>
     <loc>https://gzmb-gamedev.github.io/Blog/p/cp-project-dev-journal-1-%E9%A1%B9%E7%9B%AE%E5%88%9D%E6%AD%A5%E5%BC%80%E5%8F%91/</loc>
     <lastmod>2026-03-14T19:28:12+08:00</lastmod>
@@ -68,6 +83,15 @@
     <loc>https://gzmb-gamedev.github.io/Blog/p/volt-protocol-dev-journal-1/</loc>
     <lastmod>2026-01-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://gzmb-gamedev.github.io/Blog/p/testviewcountpost/</loc>
+    <lastmod>2026-01-11T20:29:55+08:00</lastmod>
+  </url><url>
+    <loc>https://gzmb-gamedev.github.io/Blog/p/testblog/</loc>
+    <lastmod>2026-01-10T10:51:07+08:00</lastmod>
+  </url><url>
+    <loc>https://gzmb-gamedev.github.io/Blog/p/testblog/</loc>
+    <lastmod>2026-01-10T10:51:07+08:00</lastmod>
+  </url><url>
     <loc>https://gzmb-gamedev.github.io/Blog/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -77,7 +101,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
+                hreflang="en-us"
                 href="https://gzmb-gamedev.github.io/Blog/page/"
                 />
   </url><url>
@@ -90,7 +114,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
+                hreflang="en-us"
                 href="https://gzmb-gamedev.github.io/Blog/archives/"
                 />
   </url><url>
@@ -138,7 +162,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
+                hreflang="en-us"
                 href="https://gzmb-gamedev.github.io/Blog/%E5%85%B3%E4%BA%8E/"
                 />
   </url><url>
@@ -150,7 +174,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
+                hreflang="en-us"
                 href="https://gzmb-gamedev.github.io/Blog/%E9%93%BE%E6%8E%A5/"
                 />
   </url><url>
@@ -162,7 +186,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
+                hreflang="en-us"
                 href="https://gzmb-gamedev.github.io/Blog/search/"
                 />
   </url>
