@@ -13,9 +13,7 @@
         <pubDate>Mon, 18 May 2026 21:23:00 +0800</pubDate>
         
         <guid>https://gzmb-gamedev.github.io/Blog/p/cp-project-dev-journal-8-plannerpro-%E6%96%B0%E7%AF%87%E7%AB%A0/</guid>
-        <description>&lt;h3 id=&#34;项目更名&#34;&gt;项目更名
-&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&amp;gt;&lt;/strong&gt; 正式更名为 &lt;strong&gt;PlannerPro&lt;/strong&gt;（原 IBTimeManagement），打造更专业的品牌形象&lt;/p&gt;
-&lt;h3 id=&#34;功能修复&#34;&gt;功能修复
+        <description>&lt;h3 id=&#34;功能修复&#34;&gt;功能修复
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&amp;gt;&lt;/strong&gt; 修复日期处理时区问题：解决任务无法在截止日期当天完成的问题&lt;br&gt;
 &lt;strong&gt;&amp;gt;&lt;/strong&gt; 修复深色模式亮白UI问题：优化目标管理提示界面和预设模板说明界面的颜色显示&lt;/p&gt;
 &lt;h3 id=&#34;新增功能&#34;&gt;新增功能
