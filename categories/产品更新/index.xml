@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>产品更新 on 鸽子面包de博客</title>
+        <link>https://gzmb-gamedev.github.io/Blog/categories/%E4%BA%A7%E5%93%81%E6%9B%B4%E6%96%B0/</link>
+        <description>Recent content in 产品更新 on 鸽子面包de博客</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>GZMB_GameDev</copyright>
+        <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://gzmb-gamedev.github.io/Blog/categories/%E4%BA%A7%E5%93%81%E6%9B%B4%E6%96%B0/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>PlannerPro v1.10: 设置面板优化</title>
+        <link>https://gzmb-gamedev.github.io/Blog/p/plannerpro-v1.10-%E8%AE%BE%E7%BD%AE%E9%9D%A2%E6%9D%BF%E4%BC%98%E5%8C%96/</link>
+        <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://gzmb-gamedev.github.io/Blog/p/plannerpro-v1.10-%E8%AE%BE%E7%BD%AE%E9%9D%A2%E6%9D%BF%E4%BC%98%E5%8C%96/</guid>
+        <description>&lt;h2 id=&#34;版本更新&#34;&gt;版本更新
+&lt;/h2&gt;&lt;p&gt;PlannerPro 迎来了 v1.10 版本更新！本次更新聚焦于设置面板的 UX 优化，让你的使用体验更加流畅。&lt;/p&gt;
+&lt;h2 id=&#34;主要改进&#34;&gt;主要改进
+&lt;/h2&gt;&lt;h3 id=&#34;-保存按钮置顶&#34;&gt;📍 保存按钮置顶
+&lt;/h3&gt;&lt;p&gt;将「保存设置」按钮从设置面板底部移至最顶部显眼位置。无论你滚动到哪个设置项，都能随时一键保存，再也不用拉回底部找保存按钮了。&lt;/p&gt;
+&lt;h3 id=&#34;-未保存修改提醒&#34;&gt;⚠️ 未保存修改提醒
+&lt;/h3&gt;&lt;p&gt;当你修改了设置但忘记保存，直接点击关闭按钮时，系统会弹出确认提示：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;您有未保存的修改，确定要关闭吗？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这样可以有效防止误操作导致设置丢失。&lt;/p&gt;
+&lt;h3 id=&#34;-重置功能&#34;&gt;🔄 重置功能
+&lt;/h3&gt;&lt;p&gt;新增「重置」按钮，可以一键将所有设置恢复为当前已保存的值，方便在修改过程中随时撤销。&lt;/p&gt;
+&lt;h2 id=&#34;其他更新&#34;&gt;其他更新
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;项目正式更名为 &lt;strong&gt;PlannerPro&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;优化使用文档交互体验&lt;/li&gt;
+&lt;li&gt;修复若干已知问题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;反馈渠道&#34;&gt;反馈渠道
+&lt;/h2&gt;&lt;p&gt;如果你有任何建议或遇到问题，欢迎通过 &lt;a class=&#34;link&#34; href=&#34;https://github.com/GZMB-GameDev/IBTimeManager/issues&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Issues&lt;/a&gt; 提交反馈。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;PlannerPro - 让规划更简单&lt;/em&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
