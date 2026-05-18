@@ -7,7 +7,37 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>GZMB_GameDev</copyright>
-        <lastBuildDate>Sat, 25 Apr 2026 22:43:00 +0800</lastBuildDate><atom:link href="https://gzmb-gamedev.github.io/Blog/tags/development-journal/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 18 May 2026 21:23:00 +0800</lastBuildDate><atom:link href="https://gzmb-gamedev.github.io/Blog/tags/development-journal/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>CP project Dev Journal 8 - PlannerPro 新篇章</title>
+        <link>https://gzmb-gamedev.github.io/Blog/p/cp-project-dev-journal-8-plannerpro-%E6%96%B0%E7%AF%87%E7%AB%A0/</link>
+        <pubDate>Mon, 18 May 2026 21:23:00 +0800</pubDate>
+        
+        <guid>https://gzmb-gamedev.github.io/Blog/p/cp-project-dev-journal-8-plannerpro-%E6%96%B0%E7%AF%87%E7%AB%A0/</guid>
+        <description>&lt;h3 id=&#34;项目更名&#34;&gt;项目更名
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&amp;gt;&lt;/strong&gt; 正式更名为 &lt;strong&gt;PlannerPro&lt;/strong&gt;（原 IBTimeManagement），打造更专业的品牌形象&lt;/p&gt;
+&lt;h3 id=&#34;功能修复&#34;&gt;功能修复
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&amp;gt;&lt;/strong&gt; 修复日期处理时区问题：解决任务无法在截止日期当天完成的问题&lt;br&gt;
+&lt;strong&gt;&amp;gt;&lt;/strong&gt; 修复深色模式亮白UI问题：优化目标管理提示界面和预设模板说明界面的颜色显示&lt;/p&gt;
+&lt;h3 id=&#34;新增功能&#34;&gt;新增功能
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&amp;gt;&lt;/strong&gt; 整页使用文档：告别弹窗，全屏沉浸式阅读体验，左侧导航 + 右侧滚动内容&lt;br&gt;
+&lt;strong&gt;&amp;gt;&lt;/strong&gt; 文档内链系统：点击链接直接跳转到对应弹窗或页面区域，无需手动查找&lt;br&gt;
+&lt;strong&gt;&amp;gt;&lt;/strong&gt; 目标管理快速定位：文档中的目标管理、计划设置、归档等区域链接，点击即可平滑滚动并高亮显示&lt;br&gt;
+&lt;strong&gt;&amp;gt;&lt;/strong&gt; 移动端适配优化：修复UI拉伸和日期选择器样式问题&lt;br&gt;
+&lt;strong&gt;&amp;gt;&lt;/strong&gt; 手机后台系统通知功能：离开页面也能收到提醒&lt;br&gt;
+&lt;strong&gt;&amp;gt;&lt;/strong&gt; 时间输入单位标签：让用户更清楚输入的时间单位&lt;br&gt;
+&lt;strong&gt;&amp;gt;&lt;/strong&gt; 截止日期默认值优化：提升交互体验&lt;/p&gt;
+&lt;h3 id=&#34;设置面板优化-v110&#34;&gt;设置面板优化 (v1.10)
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&amp;gt;&lt;/strong&gt; 保存按钮置顶：无论滚动到哪个设置项，都能随时一键保存&lt;br&gt;
+&lt;strong&gt;&amp;gt;&lt;/strong&gt; 未保存修改提醒：关闭设置时检测到修改会弹出确认框，防止误操作丢失设置&lt;br&gt;
+&lt;strong&gt;&amp;gt;&lt;/strong&gt; 重置功能：一键恢复所有设置为当前已保存的值&lt;/p&gt;
+&lt;h3 id=&#34;版本更新&#34;&gt;版本更新
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&amp;gt;&lt;/strong&gt; 当前版本号：v1.10&lt;/p&gt;
+&lt;h3 id=&#34;项目部署&#34;&gt;项目部署
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&amp;gt;&lt;/strong&gt; GitHub：https://github.com/GZMB-GameDev/IBTimeManager&lt;br&gt;
+&lt;strong&gt;&amp;gt;&lt;/strong&gt; 在线访问：https://ib-plan-making.netlify.app/&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>CP project Dev Journal 7 - 日期修复与移动端优化</title>
         <link>https://gzmb-gamedev.github.io/Blog/p/cp-project-dev-journal-7-%E6%97%A5%E6%9C%9F%E4%BF%AE%E5%A4%8D%E4%B8%8E%E7%A7%BB%E5%8A%A8%E7%AB%AF%E4%BC%98%E5%8C%96/</link>
         <pubDate>Sat, 25 Apr 2026 22:43:00 +0800</pubDate>
